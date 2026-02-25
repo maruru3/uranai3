@@ -1,0 +1,26 @@
+[
+  {
+    "rank": 1,
+    "sign": "sagittarius",
+    "comment": "冒険心が高まり、新しいチャンスが次々と訪れる素晴らしい日！",
+    "lucky_item": "地図",
+    "sora_prompt": "Create a stunning 10-second zodiac horoscope video. Scene: a centaur archer shooting a flaming arrow across a vast galaxy, stars exploding into constellations. In the sky above, a large glowing the Sagittarius zodiac glyph (♐, an arrow pointing up-right) shines as a celestial emblem. A large glowing golden text \"1st\" prominently displayed at the top center of the frame. Color palette: royal purple and indigo. Mood: adventurous, free, philosophical. Visual effects: golden sparkles and radiant light particles gently floating upward, warm golden glow surrounding the scene. The atmosphere should convey triumphant, majestic, radiant warmth. Style: cinematic, ethereal, anime-inspired celestial art. Camera: slow dramatic zoom with gentle orbit.",
+    "date": "2026-02-25"
+  },
+  {
+    "rank": 2,
+    "sign": "leo",
+    "comment": "カリスマが輝く！周囲の注目を集め、自信に満ちた一日になるでしょう。",
+    "lucky_item": "王冠",
+    "sora_prompt": "Create a stunning 10-second zodiac horoscope video. Scene: a magnificent lion with a golden mane standing proudly on a sunlit savanna, sun rays creating a crown of light. In the sky above, a large glowing the Leo zodiac glyph (♌, a curved lion tail) shines as a celestial emblem. A large glowing silver text \"2nd\" prominently displayed at the top center of the frame. Color palette: royal gold and orange. Mood: regal, confident, radiant. Visual effects: soft silver shimmer particles and elegant light beams, gentle stardust falling. The atmosphere should convey graceful, confident glow, beautiful radiance. Style: cinematic, ethereal, anime-inspired celestial art. Camera: slow dramatic zoom with gentle orbit.",
+    "date": "2026-02-25"
+  },
+  {
+    "rank": 3,
+    "sign": "libra",
+    "comment": "人間関係が調和し、素敵な出会いや協力が期待できます。",
+    "lucky_item": "バラの花",
+    "sora_prompt": "Create a stunning 10-second zodiac horoscope video. Scene: golden balance scales floating in a rose garden with rainbow light beams, petals swirling in harmony. In the sky above, a large glowing the Libra zodiac glyph (♎, balanced scales) shines as a celestial emblem. A large glowing bronze text \"3rd\" prominently displayed at the top center of the frame. Color palette: pastel pink and sky blue. Mood: harmonious, elegant, balanced. Visual effects: warm bronze sparkles and soft candlelight glow, gentle ember particles drifting. The atmosphere should convey warm, hopeful, gentle encouragement. Style: cinematic, ethereal, anime-inspired celestial art. Camera: slow dramatic zoom with gentle orbit.",
+    "date": "2026-02-25"
+  }
+]
